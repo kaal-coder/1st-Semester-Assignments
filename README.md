@@ -1,2 +1,7 @@
-# 1st-Semester-Assignments
-This Repo contains Solutions Assignment of Introduction to Computer Programming recieved during 1st Semester. There in no way guarantee that the solution in correct and neither do I promote cheating for the assignments you get. It is just for a reference, if you get stuck in between, you can take the logic from my code. Any corrections in the solutions are welcomed by creating a Pull Request.
+# ICP Assignments
+
+Course Number and Name: **CSE 1001, Introduction to Computer Programming** 💻
+
+Text-Book📖: <a href="https://drive.google.com/file/d/1lmbTj-nTr3wMrOzfiqYlDHcvNi3KrFal/view?usp=sharing" target="blank"> Y Daniel Liang, Introduction to Java Programming (Comprehensive version), Pearson India</a>
+
+Other Required Materials - <a href= "https://drive.google.com/file/d/1XPsXxGzG3U1VVzPfLpaKhGmDim1XziSp/view?usp=sharing" target="blank">Marking Scheme</a>, <a href= "https://drive.google.com/drive/folders/1eEJAP_UHWvSP0r5A7wirWUjDody7v-hp?usp=sharing" target="blank"> Lecture Notes</a>, <a href= "https://drive.google.com/drive/folders/1qyN67BJIueyaaW1OJThl-0Igp7M3jdtX?usp=sharing" target="blank">  Handwritten Notes </a>, <a href= "https://drive.google.com/drive/folders/1dP6avQO51tRr_pmkwhRKM9l-MmdYJZPF?usp=sharing" target="blank"> Output Questions</a>
