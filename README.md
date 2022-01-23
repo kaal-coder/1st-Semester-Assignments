@@ -1,0 +1,2 @@
+# 1st-Semester-Assignments
+This Repo contains Solutions Assignment of Introduction to Computer Programming recieved during 1st Semester. There in no way guarantee that the solution in correct and neither do I promote cheating for the assignments you get. It is just for a reference, if you get stuck in between, you can take the logic from my code. Any corrections in the solutions are welcomed by creating a Pull Request.
